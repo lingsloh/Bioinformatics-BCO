@@ -1,2 +1,1 @@
-# Bioinformatics-BCO
-Resume forthcoming
+Resume items forthcoming
